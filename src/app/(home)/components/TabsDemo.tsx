@@ -46,11 +46,11 @@ export function TabsDemo() {
       ),
     },
     {
-      title: "Fylo Landing Page",
+      title: "Landing Page",
       value: "weather",
       content: (
         <div className="w-full overflow-hidden relative h-full rounded-2xl p-10 text-xl md:text-4xl font-bold text-white bg-gradient-to-br from-purple-700 to-violet-900">
-          <p>Fylo Landing Page</p>
+          <p>Landing Page</p>
           <ImageContainer
             src="/images/best-projects/fylo-landing-page.png"
             href="https://fylo-landing-page-theta-three.vercel.app/"
@@ -59,7 +59,7 @@ export function TabsDemo() {
       ),
     },
     {
-      title: "Dev Finder App",
+      title: "Dev Finder",
       value: "devfinder",
       content: (
         <div className="w-full overflow-hidden relative h-full rounded-2xl p-10 text-xl md:text-4xl font-bold text-white bg-gradient-to-br from-purple-700 to-violet-900">
