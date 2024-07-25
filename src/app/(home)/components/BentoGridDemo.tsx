@@ -84,7 +84,7 @@ const items = [
     icon: <IconSignature className="h-4 w-4 text-neutral-500" />,
   },
   {
-    title: "Fylo Landing Page",
+    title: "Landing Page",
     description:
       "Understand the impact of effective communication in our lives.",
     header: (
